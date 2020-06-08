@@ -1,0 +1,30 @@
+##################################################################
+# Syntax Coloring Map For
+# Arduino library for Sensirion Relative Humidity and Temperature Sensor
+##################################################################
+
+##################################################################
+# Datatypes (KEYWORD1)
+##################################################################
+
+ClosedCube	KEYWORD1
+Sensor	KEYWORD1
+HTS221	KEYWORD1
+
+
+##################################################################
+# Methods and Functions (KEYWORD2)
+##################################################################
+
+address	KEYWORD2
+readTemperature	KEYWORD2
+readT	KEYWORD2
+readHumidity	KEYWORD2
+readRH	KEYWORD2
+oneShot	KEYWORD2
+whoAmI	KEYWORD2
+init	KEYWORD2
+
+
+
+### Updated: Monday, 08 June 2020 at 21:56:03 GMT-00:00
