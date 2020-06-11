@@ -3,7 +3,7 @@
 Example: hts221demo
 
 Arduino library for Arduino library for Sensirion Relative Humidity and Temperature Sensor
-version 2020.6.8
+version 2020.6.11
 
 ---
 
