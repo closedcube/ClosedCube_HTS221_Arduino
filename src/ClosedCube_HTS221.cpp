@@ -1,7 +1,7 @@
 /*
 
 Arduino library for Arduino library for Sensirion Relative Humidity and Temperature Sensor
-version 2020.6.12
+version 2020.6.15
 
 ---
 
