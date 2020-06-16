@@ -43,4 +43,4 @@ This is a ClosedCube breakout board for STMicroelectronics HTS221 Relative Humid
 TBD
 
 
-Updated: Monday, 15 June 2020 at 21:15:28 GMT-00:00
+Updated: Tuesday, 16 June 2020 at 22:21:04 GMT-00:00
